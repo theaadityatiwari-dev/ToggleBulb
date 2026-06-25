@@ -19,7 +19,7 @@ A simple and interactive web project that simulates a light bulb toggle using HT
 This project was built to practice DOM manipulation and event handling in JavaScript.
 
 ## 👨‍💻 Author
-**Aaditya Tiwari**
+**Mohit Tiwari**
 
 ---
 ⭐ If you like this project, consider giving it a star on GitHub.
